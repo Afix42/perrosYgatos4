@@ -1,0 +1,33 @@
+body {
+    background-color: powderblue;
+  }
+  p {
+    border: 3px solid rgb(221, 74, 16);
+  }
+  h1 {
+    border: 3px solid rgb(221, 74, 16);
+  }
+  h1 {
+    font-size: 40px;
+    color: #000;
+    font-family: 'Courier New';
+    }
+    p {
+        font-size: 20px;
+        color: #000;
+        font-family: 'Times New Roman';
+        }
+        tr {
+            font-size: 15px;
+            color: #000;
+            font-family: 'Trebuchet MS';
+            }
+            td {
+                font-size: 15px;
+                color: #000;
+                font-family: 'Trebuchet MS';
+                }
+                tr {
+                    background-color: rgba(0, 255, 213, 0.493);
+                }
+    
