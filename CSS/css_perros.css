@@ -1,3 +1,19 @@
+.centradoTitulo {
+  text-align: center;
+  font-family: 'Courier New';
+  text-decoration: underline;
+  margin-right: 300x;
+  margin-left: 300px;
+}
+
+.centradoTexto {
+
+  text-align: center;
+  border: 3px solid rgb(59, 160, 228);
+  margin-right: 400px;
+  margin-left: 400px;
+}
+
 body {
     background-color: powderblue;
   }
