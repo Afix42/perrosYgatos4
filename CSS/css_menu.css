@@ -6,13 +6,16 @@
 }
 .centradoTexto {
     text-align: center;
-    border: 3px solid rgb(59, 160, 228);
+    border: 3px solid rgb(26, 76, 141, 0.589);
+    border-radius: 10px;
     margin-right: 270px;
     margin-left: 270px;
+    font-size: 20px;
+    background-color: rgba(71, 148, 248, 0.5);
 }
 
 body {
-    background-color: powderblue;
+    background-color: rgb(176, 224, 230);
 }
 
 
@@ -32,7 +35,7 @@ body {
     float:left;
   }
 .bgTexto {
-    background-color: rgb(255, 255, 255) ;
+    background-color: rgba(255, 255, 255, 0.89) ;
     color: rgb(0, 0, 0);
 }
 
@@ -47,7 +50,17 @@ a {
 
 a:hover {
 border-bottom: 3px solid;
-
-
     
 }
+
+ul {
+    font-size: 20px;
+    background-color: rgba(71, 148, 248, 0.5);
+    border: 3px solid;
+    border-radius: 10px;
+    border-color: rgba(26, 76, 141, 0.589);
+    margin-left: 700px;
+    margin-right: 700px;
+
+}
+
