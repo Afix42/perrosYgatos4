@@ -1,0 +1,40 @@
+.centradoTitulo {
+    text-align: center;
+    font-family: 'Courier New';
+    text-decoration: underline;
+    margin-right: 300px;
+    margin-left: 300px;
+  }
+  
+.centradoTexto {
+    text-align: center;
+    border: 3px solid #3ba0e4;
+    margin-right: 400px;
+    margin-left: 400px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    background-color: #4794f880;
+  }
+
+body {
+    background-color: #b0e0e6;
+}
+
+h1 {
+    font-size: 40px;
+    color: #000000;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    font-size: 20px;
+    color: #000000;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+td {
+    font-size: 15px;
+    color: #000000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #00ffd57e;
+}
