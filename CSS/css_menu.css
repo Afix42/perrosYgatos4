@@ -30,7 +30,7 @@ body {
     border: 6px solid;
     border-color:rgba(39, 112, 207, 0.589) ;
     border-radius: 15px;
-    margin-left: 330px;
+    margin-left: 150px;
     margin-bottom: 1px;
     float:left;
   }
@@ -59,8 +59,8 @@ ul {
     border: 3px solid;
     border-radius: 10px;
     border-color: rgba(26, 76, 141, 0.589);
-    margin-left: 700px;
-    margin-right: 700px;
+    margin-left: 265px;
+    margin-right: 167px;
 
 }
 
