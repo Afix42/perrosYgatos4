@@ -42,3 +42,13 @@ td {
     color: #000000;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+a:hover {
+    border-bottom: 2px solid;
+}
+a {
+    font-size: 20px;
+    text-decoration: none;
+    padding: auto;
+
+}

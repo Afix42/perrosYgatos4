@@ -52,3 +52,13 @@ body {
                     background-color: rgba(0, 255, 213, 0.493);
                 }
     
+                a:hover {
+                  border-bottom: 2px solid;
+                }
+
+                a {
+                  font-size: 20px;
+                  text-decoration: none;
+                  padding: auto;
+              
+              }
